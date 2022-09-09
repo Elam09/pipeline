@@ -1,0 +1,6 @@
+com/openclassrooms/testing/calcul/domain/CalculatorTest.class
+com/openclassrooms/testing/calcul/domain/LoggingExtension.class
+com/openclassrooms/testing/calcul/domain/ConversionCalculatorTest.class
+com/openclassrooms/testing/calcul/domain/ConversionCalculatorTest$TemperatureTests.class
+com/openclassrooms/testing/calcul/domain/DoubleCalculatorTest.class
+com/openclassrooms/testing/calcul/service/CalculatorServiceTest.class

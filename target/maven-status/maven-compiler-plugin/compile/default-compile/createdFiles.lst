@@ -1,0 +1,9 @@
+com/openclassrooms/testing/calcul/service/BatchCalculatorService.class
+com/openclassrooms/testing/calcul/service/CalculatorService.class
+com/openclassrooms/testing/calcul/domain/model/CalculationModel.class
+com/openclassrooms/testing/calcul/service/BatchCalculatorServiceImpl.class
+com/openclassrooms/testing/calcul/service/CalculatorServiceImpl$1.class
+com/openclassrooms/testing/calcul/domain/Calculator.class
+com/openclassrooms/testing/calcul/service/CalculatorServiceImpl.class
+com/openclassrooms/testing/calcul/domain/model/CalculationType.class
+com/openclassrooms/testing/calcul/domain/ConversionCalculator.class
